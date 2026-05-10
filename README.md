@@ -170,8 +170,8 @@ Accès via Kaggle : [`jessicali9530/celeba-dataset`](https://www.kaggle.com/data
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/votre-repo/Text2FaceGAN.git
-cd Text2FaceGAN
+git clone https://github.com/Safae07/Text2FaceGAN_PPD.git
+cd Text2FaceGAN_PPD
 
 # Installer les dépendances
 pip install -r requirements.txt

@@ -8,7 +8,7 @@
 ![Université](https://img.shields.io/badge/Université-Paris%20Cité-8E0032)
 
 > **Projet Pluridisciplinaire — Master 1 Machine Learning pour la Science des Données**
-> Université Paris Cité | Année 2024–2025
+> Université Paris Cité | Année 2025–2026
 > Encadrante : Mme. Severine AFFELDT
 
 ---

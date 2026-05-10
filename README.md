@@ -9,7 +9,7 @@
 
 > **Projet Pluridisciplinaire — Master 1 Machine Learning pour la Science des Données**
 > Université Paris Cité | Année 2024–2025
-> Encadrante : Mme. Sevrine AFFELDT
+> Encadrante : Mme. Severine AFFELDT
 
 ---
 
@@ -47,7 +47,7 @@ Text2FaceGAN/
 │   └── stackgan_eval.ipynb        # Évaluation complète (FID, cohérence, mode collapse)
 │
 ├── 📂 text2facegan/
-│   └── text2facegan.ipynb         # Reproduction Text2FaceGAN en PyTorch (à venir)
+│   └── text2facegan.ipynb         # Reproduction Text2FaceGAN en PyTorch
 │
 ├── 📂 assets/
 │   └── ...                        # Figures et résultats illustratifs
@@ -254,5 +254,5 @@ Le rapport complet du projet est disponible dans ce dépôt : [`rapport_Text2Fac
 ---
 
 <div align="center">
-  <sub>Université Paris Cité — Master 1 MLSD — 2024/2025</sub>
+  <sub>Université Paris Cité — Master 1 MLSD — 2025/2026</sub>
 </div>
